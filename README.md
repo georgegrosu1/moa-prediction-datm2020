@@ -11,7 +11,7 @@ Cell 6: Load data from csv files
 Cell 7: Concat dataframes of features and targets
 Cell 8: Investigate existance of NaNs in dataset
 Cell 9: Bar plot for CP_TYPE feature (Investigate similarity of categorilas in train and test set)
-Cell 10: Same as Cell 9 but for CP_TIMEfeature
+Cell 10: Same as Cell 9 but for CP_TIME feature
 Cell 11: Same but for CP_DOSE feature
 Cell 12: Select columns for genes
 Cell 13: Print statistics for 9 genes
