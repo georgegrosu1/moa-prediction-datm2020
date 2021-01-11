@@ -1,1 +1,1 @@
-# moa-prediction-datm2020
+# Mechanism of Action Prediction Kaggle Competition
