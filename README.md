@@ -26,6 +26,7 @@ Cell 21: Bar plot for frequency of true value for first 20 most frequent targets
 Cell 22: Pairwise activation heatmap for first 20 most frequent targets
 
 ## Data preprocessing and model training
+Preprocessing and training can be run with nn_rnn_cnn.ipynb
 Cell 1: Import needed libs
 Cell 2: Seed everything for reproducible results
 Cell 3: Convert all categorical string values to numeric
